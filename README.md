@@ -5,3 +5,4 @@
 * Sistemas operacionais modernos 4º edição (Tanenbaum)
 * Organização estruturada de computadores 6º edição (Tanenbaum)
 * Código limpo
+* Programador pragmático
